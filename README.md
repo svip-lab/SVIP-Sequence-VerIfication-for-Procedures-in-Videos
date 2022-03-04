@@ -1,4 +1,4 @@
-# SVIP-Sequence-VerIfication-for-Procedures-in-Videos
+# SVIP: Sequence VerIfication for Procedures in Videos
 This repo is the official implementation of our CVPR 2022 paper: [*SVIP: Sequence VerIfication for Procedures in Videos*](https://arxiv.org/abs/2112.06447).
 
 ---
