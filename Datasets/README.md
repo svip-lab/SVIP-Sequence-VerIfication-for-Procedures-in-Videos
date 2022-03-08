@@ -6,7 +6,7 @@ This project relates to three datasets: *COIN-SV, Diving48-SV, CSV*. The first t
 | ----------- | ------- | -------- | ------- | -------------- | ------------------ | ------------------ |
 | COIN-SV     | 36      | 2114     | 749     | 37 / 268 / 285 | 1221 / 451 / 442   | 21741 / 1000 / 400 |
 | Diving48-SV | 1       | 16997    | 24      | 20 / 20 / 8    | 6035 / 7938 / 3024 | 50000 / 1000 / 400 |
-| CSV         | 14      | 1941     | 106     | 45 / 25 / -    | 902 / 1039 / -     | 8531 / 1000 / -    |
+| CSV         | 14      | 1941     | 106     | 45 / 25 / -    | 901 / 1039 / -     | 8551 / 1000 / -    |
 
 The following are the download instruction and splits division of above datasets.
 
@@ -28,4 +28,4 @@ Splits: [train](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Proce
 
 ### Something else:
 * We also provide video pairs used in our training for reproducing the result reported in the paper if someone interests. ([COIN-SV](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/COIN-SV/train_pairs.txt), [Diving48-SV](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/Diving48-SV/train_pairs.txt), [CSV](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/CSV/train_pairs.txt))  
-* The labels in COIN-SV and CSV follow the form of **A.B** where **A** indicates the task and **B** indicates one of the procedures of task *A*. The realistic annotation for labels can be found in *label_bank.json* in each dataset. 
+* The labels in COIN-SV and CSV follow the form of **A.B** where **A** indicates the task and **B** indicates one of the procedures of task **A**. The realistic annotation for labels can be found in *label_bank.json* in each dataset. 
