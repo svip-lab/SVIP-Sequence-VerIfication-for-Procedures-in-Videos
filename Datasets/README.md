@@ -22,7 +22,7 @@ Download: [here](http://www.svcl.ucsd.edu/projects/resound/Diving48_rgb.tar.gz)
 Splits: [train](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/Diving48-SV/train_split.txt) / [test](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/Diving48-SV/test_split.txt) / [val](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/Diving48-SV/val_split.txt)
 
 ### CSV:
-Download: [BaiduNetDisk]() / [GoogleDrive]()
+Download: [BaiduNetDisk](https://pan.baidu.com/s/1gYYhigjoQjw2OaeZFPwY9g) (extraction code: 9uyk) / [OneDrive](https://shanghaitecheducn-my.sharepoint.com/:f:/g/personal/qianych_shanghaitech_edu_cn/EjHfzFTQyWxGuuHsR26u3ncBMYsyiD06foNe4x47-DrfLA?e=cfgL2N)
 
 Splits: [train](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/CSV/train_split.txt) / [test](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/CSV/test_split.txt)
 
