@@ -16,6 +16,8 @@ Download: We provide a video id [list](https://github.com/svip-lab/SVIP-Sequence
 
 Splits: [train](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/COIN-SV/train_split.txt) / [test](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/COIN-SV/test_split.txt) / [val](https://github.com/svip-lab/SVIP-Sequence-VerIfication-for-Procedures-in-Videos/blob/main/Datasets/COIN-SV/val_split.txt)
 
+**NOTE**: We truncate each video according to the start and end timestamps provided in the raw annotation.
+
 ### Diving48-SV
 Download: [here](http://www.svcl.ucsd.edu/projects/resound/Diving48_rgb.tar.gz)
 
