@@ -2,7 +2,6 @@
 ## Specify your location of output videos and input json file.
 import json
 import os
-import pdb
 
 output_path = 'videos'
 json_path = 'COIN.json'
