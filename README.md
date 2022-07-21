@@ -55,19 +55,19 @@ We provide checkpoints for each dataset trained with this *re-organized* codebas
     <tr>
         <td rowspan="2">COIN-SV</td>
         <td>val</td>
-        <td>56.81, 0.4005</td><td>58.27, 0.4667</td><td rowspan="2"><a href="tbd">here</a></td>
+        <td>56.81, 0.4005</td><td>58.27, 0.4667</td><td rowspan="2"><a href="https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/qianych_shanghaitech_edu_cn/EV1sUUwj2qhOhjDUZjxH_MIBwAhtOmu-aj94oA5Ymjo3OQ?e=iwgmER">here</a></td>
     </tr>
     <td>test</td><td>51.13, 0.4098</td><td>51.55, 0.4658</td>
     <tr>
         <td rowspan="2">Diving48-SV</td>
         <td>val</td>
-        <td>91.91, 1.0642</td><td>91.69, 1.0928</td><td rowspan="2"><a href="tbd">here</a></td>
+        <td>91.91, 1.0642</td><td>91.69, 1.0928</td><td rowspan="2"><a href="https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/qianych_shanghaitech_edu_cn/EemkvNVloT1Bl4GLwHyB9AsBYr1nA8CExP7AJO2mUiwQog?e=WirdVh">here</a></td>
     </tr>
     <td>test</td><td>83.11, 0.6009</td><td>84.28, 0.6193</td>
     <tr>
         <td>CSV</td>
         <td>test</td>
-        <td>83.02, 0.4193</td><td>82.88, 0.4474</td><td><a href="tbd">here</a></td>
+        <td>83.02, 0.4193</td><td>82.88, 0.4474</td><td><a href="https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/qianych_shanghaitech_edu_cn/EQTnwW6smH5OgjGpV3eOel4BCir7gBdnqs7nHj1WOS-Z3A?e=ZnNFP7">here</a></td>
     </tr>
 </table>
 
