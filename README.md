@@ -18,11 +18,10 @@ This repo is the official implementation of our CVPR 2022 paper: [*SVIP: Sequenc
     pip install requirements.txt 
     ```
 2. Download the pretrained model.
-    ```bash
-    mkdir pretrained_models
-    cd pretraned_models
-    wget https://download.openmmlab.com/mmaction/recognition/tsn/tsn_r50_256p_1x1x3_100e_kinetics400_rgb/tsn_r50_256p_1x1x3_100e_kinetics400_rgb_20200725-22592236.pth
-    ```
+
+    Link：[here](https://pan.baidu.com/s/1gUqVZRwt2Xq2rg8o5F-1Rg?pwd=2555)
+    
+    Extraction code：2555
 
 ---
 ### Datasets
