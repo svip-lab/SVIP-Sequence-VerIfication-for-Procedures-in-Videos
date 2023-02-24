@@ -17,11 +17,11 @@ This repo is the official implementation of our CVPR 2022 paper: [*SVIP: Sequenc
     cd VIP-Sequence-VerIfication-for-Procedures-in-Videos
     pip install requirements.txt 
     ```
-2. Download the pretrained model.
+2. Download the Kinetics-400 pretrained model.
 
-    Link：[here](https://pan.baidu.com/s/1gUqVZRwt2Xq2rg8o5F-1Rg?pwd=2555)
+    Link：[here](https://pan.baidu.com/s/1sJU_u1QWLpeNVjymoqGO3g?pwd=bs6b)
     
-    Extraction code：2555
+    Extraction code：bs6b
 
 ---
 ### Datasets
